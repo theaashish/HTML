@@ -1,3 +1,9 @@
+/* *{
+    color:blueviolet;
+}
+
+
+ 
 h1 {
     color: red;
 }
@@ -5,15 +11,16 @@ h2{
     color: blue;
 }
 h3{
-    color:blueviolet;
-}
+    color:blue;
+} */
+/*
 p{
     color: brown;
 }
 button{
     color:darkgoldenrod;
     background-color:bisque
-}
+} */
 /* 
 body{
     background-color: aquamarine;
@@ -24,8 +31,93 @@ body{
 /* body{
     background-color: rgb(50,80,90); }
     */
+  
+    /* #headingone{
+        color:brown;
+    }
+    #headingtwo{
+        color:chocolate;
+    }
+    #headingthree{
+        color:aqua;
+    } */
 
+   /* class selector used for multiple line  */
+
+    /* .myclass{
+        color: red;
+    }
 
     body{
         background-color: #ffff00;
+    } */
+
+
+    #box{
+        background-color: blueviolet;
+    }
+
+    /* .heading{
+        color: red;
+    } */
+
+    /* h1,h2,h3{
+        color: rgb(120, 156, 120);
+    } */
+
+    button{
+        color: green;
+    }
+
+    p{
+        text-align: center;
+    }
+   #headingone{
+        text-align: center;
+        text-decoration:blue double underline;
+        
+    }
+
+    /* #headingone{
+         text-decoration: underline;
+         text-decoration:overline;
+         text-decoration: line-through
+    } */
+    /* a {
+        text-decoration:none;
+    } */
+/* 
+    #h1{
+        font-weight: 100;
+    }
+    #h2{
+        font-weight:520;
+    }
+    #h3{
+        font-weight:650;
+    }
+    #h4{
+        font-weight:900;
+    } */
+
+    #p1{
+        font-family:Arial, Helvetica, sans-serif;
+        line-height: 20px;
+    }
+
+    #h1{
+        font-size: 10px;
+    }
+    #h2{
+        font-size:25px;
+    }
+    #h3{
+        font-size: 20px;
+    }
+    #h4{
+        font-size: 50px;
+    }
+   #p2{
+        line-height:normal;
+        text-transform:uppercase;
     }
